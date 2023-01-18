@@ -8,6 +8,11 @@ mid night club
 mugen power 
 
 * turbo system 
+work equip 05
+work vs kf
+work vs xx
+work meister sp1
+work equip 03
 * spark plug
 * intercoller 
 * wastegate
