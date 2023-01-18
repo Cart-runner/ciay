@@ -1,6 +1,11 @@
 # Greaddy
 
 ## Wisit Workshop 
+tuning is not a crime
+
+mid night club 
+
+mugen power 
 
 * turbo system 
 * spark plug
